@@ -1,0 +1,6 @@
+{
+  "name": "Singapore Haze Command Center",
+  "description": "Real-time NEA PM2.5 & PSI telemetry, 23-town IDW spatial interpolation, tactical SVG wind advection map, Holt linear forecasting (+1h to +24h), and Gemini AI meteorological analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
