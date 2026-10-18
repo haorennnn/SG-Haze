@@ -1,4 +1,4 @@
-# 🇸🇬 SGHaze
+# SGHaze
 
 A real-time Singapore air quality and haze monitoring dashboard. It combines live **data.gov.sg v2** telemetry with town-level spatial interpolation and Gemini 2.5 Flash forecasting.
 
@@ -33,6 +33,6 @@ All telemetry is fetched directly from Singapore's official public `data.gov.sg`
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone [https://github.com/haorennnn/SG-Haze.git](https://github.com/haorennnn/SG-Haze.git)
+cd SG-Haze
 npm install
